@@ -1,16 +1,7 @@
-- title: General Information
-  type: map
+- title: basics
   contents:
-    - name: Full Name
-      value: Pranas Grigaitis
-    - name: Date of Birth
-      value: 23rd July 1995
-    - name: E-mail address
-      value: p [dot] grigaitis [at] vu [dot] nl
-    - name: Phone number
-      value: +31 (0) 205998827
-    - name: Languages
-      value: Lithuanian (native), English (fluent), German (basics), Dutch (basics)
+    - name: "Pranas Grigaitis"
+    - email: "mailto:p.grigaitis@vu.nl"
 
 - title: Education
   type: time_table
@@ -19,7 +10,7 @@
       institution: Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
       year: 2023
       description:
-        - 'PhD Thesis: "Constrain and conquer: explaining metabolic strategies of microbial life through optimal resource allocation"'
+        - title: "Constrain and conquer: explaining metabolic strategies of microbial life through optimal resource allocation"
 
     - title: "MSc Molecular Biosciences (Major: Systems Biology)"
       institution: Universität Heidelberg, Heidelberg, Germany
@@ -36,16 +27,11 @@
   contents:
     - title: Postdoctoral Researcher
       institution: Vrije Universiteit Amsterdam
-      year: 2022 - 
+      year: 2022 - current
 
     - title: PhD Student
       institution: Vrije Universiteit Amsterdam
       year: 2019 - 2022
-    
-    - title: Guest Student/Guest Scientist
-      institution: Danish Cancer Center
-      year: 2016 - 2017
-      description: Visiting student Jun-Sep 2016 and Jul-Sep 2017
 
 - title: Honors and Awards
   type: time_table

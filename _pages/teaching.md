@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+description: List of previously- and currently-taught courses.
+nav: false
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Academic Year 2023-2024
+- "Basics of Systems Biology" (BSc, tutorials)
 
-Organize your courses by years, topics, or universities, however you like!
+Academic Year 2022-2023
+- "Basics of Systems Biology" (BSc, tutorials)
+
+Academic Year 2020-2021
+- "Introduction to Systems Biology" (MSc, tutorials)
+- "Statistics with R" (MSc, tutorials)
