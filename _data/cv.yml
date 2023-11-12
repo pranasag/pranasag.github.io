@@ -3,12 +3,12 @@
   contents:
     - name: Full Name
       value: Pranas Grigaitis
-    - name: Date of Birth
+    - name: DoB
       value: 23rd July 1995
-    - name: E-mail address
+    - name: E-mail
       value: p [dot] grigaitis [at] vu [dot] nl
-    - name: Phone number
-      value: +31 (0) 205998827
+    - name: Phone
+      value: +31 (0) 20 59 98827
     - name: Languages
       value: Lithuanian (native), English (fluent), German (basics), Dutch (basics)
 
@@ -16,34 +16,34 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
+      institution: Vrije Universiteit Amsterdam (Amsterdam, NL)
       year: 2023
       description:
         - 'PhD Thesis: "Constrain and conquer: explaining metabolic strategies of microbial life through optimal resource allocation"'
 
     - title: "MSc Molecular Biosciences (Major: Systems Biology)"
-      institution: Universität Heidelberg, Heidelberg, Germany
+      institution: Universität Heidelberg (Heidelberg, DE)
       year: 2019
       description:
         - Speaker for the Major Systems Biology
 
     - title: BSc Biochemistry
-      institution: Vilnius University, Vilnius, Lithuania
+      institution: Vilnius University (Vilnius, LT)
       year: 2017
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: Vrije Universiteit Amsterdam
+      institution: Vrije Universiteit Amsterdam (Amsterdam, NL)
       year: 2022 - 
 
     - title: PhD Student
-      institution: Vrije Universiteit Amsterdam
+      institution: Vrije Universiteit Amsterdam (Amsterdam, NL)
       year: 2019 - 2022
     
     - title: Guest Student/Guest Scientist
-      institution: Danish Cancer Institute
+      institution: Danish Cancer Institute (Copenhagen, DK)
       year: 2016 - 2017
       description: Visiting student Jun-Sep 2016 and Jul-Sep 2017
 
@@ -53,6 +53,9 @@
     - year: 2017
       items: 
         - Deutschlandstipendium of Universität Heidelberg
+    - year: 2013
+      items:
+        - Scholarship of the C. M. Gruodis foundation
 
 
 - title: Other Interests

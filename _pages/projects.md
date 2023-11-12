@@ -2,10 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: "Here you will see a selection of my current research (sub)lines.
+Interested to know more? Please get in touch!"
+nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Research themes, Student projects]
 horizontal: false
 ---
 
@@ -56,3 +57,6 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+Picture credits: 
+* Florida carpenter ants *Camponotus floridanus* engaging in oral-oral trophallaxis by Pranas Grigaitis;
+* Uncle Sam [Poster Picture](https://www.flickr.com/photos/donkeyhotey/5666065982) by DonkeyHotey on Flickr.

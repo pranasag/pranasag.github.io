@@ -2,12 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List of previously- and currently-taught courses.
+description: List of previously- and currently-taught courses at the Vrije Universiteit.
 nav: false
 nav_order: 5
 ---
 
 Academic Year 2023-2024
+- "Basic Models of Biological Networks" (MSc, lectures & tutorials)
 - "Basics of Systems Biology" (BSc, tutorials)
 
 Academic Year 2022-2023
