@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Exploring metabolic strategies across the tree of life</i>
+subtitle: <i>Metabolic architectures & their design</i>
 
 profile:
   align: right
@@ -15,8 +15,9 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Biological agents of different scale make [metabolic] decisions. Single cells, cell (sub)populations, and even multicellular organisms change their behavior both in space and time. These shifts translate to different metabolic strategies, and metabolic specialization – or loss of it. I try to make sense of shifts in metabolism by blending computational models and experimental data, and my [current research line(s)](projects/) can be summarized as an effort to advance our understanding of different strategies of *life* using the computational blueprints of living cells.
+The function of cells is driven by their metabolic networks. Metabolic networks show remarkable plasticity in order to adapt to different biochemical and ecological contexts. This leads to vast diversity and complexity of metabolic strategies that living organisms undertake. Moreover, natural living systems are heavily intertwined: many organisms exhibit (inter-)dependences on other lifeforms (for instance, function of gut microbiome is indispensible in some aspects to humans). There has been a lot of recent progress in dissecting and understanding these <i>metabolic architectures</i>, and combined experimental- and theoretical studies have been indispensible to get a better grasp on the metabolic architectures we observe in Nature.
 
-These computational blueprints of metabolism are so-called [genome-scale metabolic models](https://www.sciencedirect.com/science/article/pii/S2214799321001703) – a technique that I have used in my work extensively over the years. I have accumulated experience in handling these models at all research stages (model construction, development of new pipelines, hypothesis testing), and used their predictions to obtain new biological insights both into microbial physiology. The next frontier - and increasingly bigger chunk of my workday - is transferring the modeling success(es) beyond unicellular organisms.
+In the search for quantitative underpinnings of condition- and context-dependent metabolic strategies of different organisms, I blend computational models and experimental data to describe and make sense of their metabolic phenotypes. In my modeling efforts, I make extensive use of [genome-scale metabolic models](https://www.sciencedirect.com/science/article/pii/S2214799321001703), the databases containing the information on metabolic *capacity* of the organism. Another pillar of my current research is multi-scale -omics data, which, combined, provide a very detailed snapshot of cell states, and can guide us in answering the questions "what does the cell do?".
 
 I am a post-doctoral researcher @[Systems Biology Lab](https://teusinkbruggemanlab.nl) at Vrije Universiteit Amsterdam. I am a biochemist by training, and, fascinated by the power that mathematics and computers bring to modern biology, I moved towards computational systems biology over the years. In early 2023, I have defended my [PhD Thesis](https://research.vu.nl/en/publications/constrain-and-conquer-explaining-metabolic-strategies-of-microbia) here at the *Vrije Universiteit*.
+
