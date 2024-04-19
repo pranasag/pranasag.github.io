@@ -14,6 +14,22 @@ Internships involve multiple modeling types (genome-scale metabolic modelling an
 Please contact me for more details!
 
 #### Open positions
+##### Improving construction of enzyme-constrained metabolic models for non-model organisms
+MSc Minor/Major, 24-30 EC | both on-site and remote | availability: ASAP
+
+Supervisor: Pranas Grigaitis
+
+Genome-scale metabolic models (GEMs) are computable databases of all the biochemical conversions that an organism could do given all the metabolic proteins that are encoded by its genome. These models have been extensively used to advance our understanding of microbial growth strategies and production of valuable compounds (see a review by our group: Somerville *et al.* 2022 *Curr Opin Food Sci*), and modeling of higher eukaryote networks is currently in the focus. 
+
+The predictive power of GEMs is limited by several strong assumptions. To mention a few, these models do not include any information about enzyme action (reaction thermodynamics, kinetic parameters) and the physico-chemical constraints of growth (cell size, maximal cell density…). So-called *enzyme-constrained* GEMs (*ecModels*) are a GEM extension framework that introduces simplified enzyme kinetics and enzyme usage constraints in the cell.
+
+The GECKO toolbox (Chen *et al.* 2024 *Nat Protocol*) is a user-friendly pipeline, written in MATLAB, to generate *ecModels*. It includes some steps that are dependent on the target organism: (i) matching information in biological databases with input proteome data, and (ii) infer the experimentally determined stoichiometry of protein complexes. These data resources are either scarce or nonexistent for non-model organisms, and the resulting ecModels are incomplete in that sense.
+
+In this project, we want to extend the organism information-dependent steps in GECKO to perform homology-based search in the databases normally used by GECKO. The expected outcome is to make the method more suitable to reconstruct the *ecModels* of organisms outside the usual cohort of “model organisms”. 
+
+We expect you to have (or be willing to quickly acquire) a good command of programming in MATLAB. Basic familiarity with the good practices of software carpentry (e.g. version control using *git*) is desired. 
+
+
 ##### Correlating genetic and functional variability of enzymes with thermodynamics
 MSc Minor/Major, 24-36 EC | both on-site and remote | availability: Summer 2024
 
