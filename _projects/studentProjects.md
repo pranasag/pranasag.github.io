@@ -14,6 +14,19 @@ Internships involve multiple modeling types (genome-scale metabolic modelling an
 Please contact me for more details!
 
 #### Open positions
+##### Exploring the diversity and origins of metabolites in ant social fluids
+Research internship proposal (MSc Minor/Major, 24-36 EC)
+Supervisor: Pranas Grigaitis
+
+Many insect orders, and most ant species, exhibit eusocial behavior, i.e., individuals live in groups, coordinated through cooperative action and reproductive division of labor. One of manifestations of eusociality is presence of socially exchanged fluids. Our collaborators (lab of [Adria LeBoeuf @Uni Cambridge](https://leboeuflab.com/)) have previously observed that the trophallactic (=nutritional) fluids of Florida carpenter ants *Camponotus floridanus* are likely rich in sugars and free fatty- and amino acids ([LeBoeuf *et al.* 2016 *eLife*](https://elifesciences.org/articles/20375, [Hakala et *al. 2021* *eLife*](https://elifesciences.org/articles/74005)).
+
+The LeBoeuf lab has performed a large-scale sampling experiment of social fluids from 4 different ant species grown in lab, and multiple castes/fluid localizations within a species. We have run LC-MS/MS-based untargeted metabolomics analyses on these samples and acquired mass spectra, containing >1500 unique peaks. The identity of >90% peaks, however, is ambiguous and needs further investigation. We are looking for a student to analyze these metabolomics datasets, and, coupled with genomic analyses, help us to suggest the origin of secondary metabolites (ant- or microbe-produced, or food-borne) in different ant social fluids.
+
+We will use mzMine3 ([Heuckeroth *et al.* 2024 *Nat Protoc*](https://doi.org/10.1038/s41596-024-00996-y)) and other well-established mass spectrometry analysis tools to reannotate peaks from the raw mass spectra, and assess the diversity of fluid metabolites at different granularity (from functional classes towards individual compounds). For mapping the origin of these metabolites, we will use various genome annotation tools to locate enzymes and/or biosynthetic gene clusters. 
+
+We expect you to do scripting in either *Python/R/MATLAB*; basic knowledge of *bash* scripting is an advantage. A background in molecular biosciences is desired, but strongly interested applicants from other backgrounds should apply as well. We offer you a challenge to analyze -omics datasets from unique biological sources, and to join an exciting interdisciplinary project where you will join a diverse team of ecologists, molecular zoologists, and systems biologists.
+
+
 ##### Correlating genetic and functional variability of enzymes with thermodynamics
 MSc Minor/Major, 24-36 EC | both on-site and remote | availability: Summer 2024
 
