@@ -15,7 +15,8 @@ Please contact me for more details!
 
 #### Open positions
 ##### Exploring the diversity and origins of metabolites in ant social fluids
-Research internship proposal (MSc Minor/Major, 24-36 EC)
+Research internship proposal (MSc Minor/Major, 24-36 EC) | both on-site and remote | availability: ASAP
+
 Supervisor: Pranas Grigaitis
 
 Many insect orders, and most ant species, exhibit eusocial behavior, i.e., individuals live in groups, coordinated through cooperative action and reproductive division of labor. One of manifestations of eusociality is presence of socially exchanged fluids. Our collaborators (lab of [Adria LeBoeuf @Uni Cambridge](https://leboeuflab.com/)) have previously observed that the trophallactic (=nutritional) fluids of Florida carpenter ants *Camponotus floridanus* are likely rich in sugars and free fatty- and amino acids ([LeBoeuf *et al.* 2016 *eLife*](https://elifesciences.org/articles/20375, [Hakala et *al. 2021* *eLife*](https://elifesciences.org/articles/74005)).
@@ -28,7 +29,7 @@ We expect you to do scripting in either *Python/R/MATLAB*; basic knowledge of *b
 
 
 ##### Correlating genetic and functional variability of enzymes with thermodynamics
-MSc Minor/Major, 24-36 EC | both on-site and remote | availability: Summer 2024
+MSc Minor/Major, 24-36 EC | both on-site and remote | availability: ASAP
 
 Supervisors: Pranas Grigaitis, Frank Bruggeman
 
