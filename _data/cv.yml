@@ -10,7 +10,7 @@
     - name: Phone
       value: +31 (0) 20 59 98827
     - name: Languages
-      value: Lithuanian (native), English (fluent), German (basics), Dutch (basics)
+      value: Lithuanian (native), English (C2), German (B2), Dutch (A2+)
 
 - title: Education
   type: time_table
@@ -36,7 +36,7 @@
   contents:
     - title: Postdoctoral Researcher
       institution: Vrije Universiteit Amsterdam (Amsterdam, NL)
-      year: 2022 - 
+      year: 2022 - 2025
 
     - title: PhD Student
       institution: Vrije Universiteit Amsterdam (Amsterdam, NL)
@@ -50,12 +50,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - KIT Young Investigator Group Preparatory Program Fellowship
     - year: 2017
       items: 
         - Deutschlandstipendium of Universität Heidelberg
     - year: 2013
       items:
-        - Scholarship of the C. M. Gruodis foundation
+        - Scholarship of the C. M. Gruodis Memorial Foundation
 
 
 - title: Other Interests
