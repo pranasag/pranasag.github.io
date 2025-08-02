@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Resource allocation in yeasts
-description: Exploring and describing metabolic strategies of yeasts in terms of cell economy
+title: Single-organism resource allocation strategies
+description: What makes a metabolic strategy superior to others?
 img: assets/img/enzymesMito.jpg
 importance: 2
 category: Research themes
 giscus_comments: false
-related_publications: elsemman2022whole, grigaitis2022computational, grigaitis2023elevated
+related_publications: elsemman2022whole, grigaitis2022computational, grigaitis2023elevated, Battjes2024mitochondrial
 ---
 
-One of the fascinating things about microbial life is how swiftly they can adapt themselves to very different environments and conditions - likely one of the key reasons why microbes have colonized even the most unwelcoming patches of our planet Earth. A part of this can be attributed, of course, to the extremely diverse biochemistry even a single bacterial cell can contain, but even more importantly, metabolism itself is *plastic*. Metabolic shifts - as we call them - are key ingredient of the microbial adaptation to changes in environmental conditions. A canonical, and, personally, close-to-heart example is yeasts starting to ferment glucose into ethanol even in the presence of oxygen in the environment, so-called Crabtree effect.
+One of the fascinating things about microbial life is how swiftly they can adapt themselves to very different environments and conditions - likely one of the key reasons why microbes have colonized even the most unwelcoming patches of our planet Earth. A part of this can be attributed, of course, to the extremely diverse biochemistry even a single bacterial cell can contain, but even more importantly, metabolism itself is *plastic*. Metabolic shifts - as we call them - are key ingredient of the microbial adaptation to changes in environmental conditions. A close-to-heart example is yeasts starting to ferment glucose into ethanol even in the presence of oxygen in the environment, so-called Crabtree effect. Please don't blame me for this: I did most of my PhD work on yeasts.
 
 If we start computing balances, this shift looks, pardon my French, ridiculous. *Saccharomyces cerevisiae* is rather inefficient when it comes to using respiration (complete oxidation of carbon source to CO<sub>2</sub> and water) for energy generation, since it can convert 16 molecules of ADP ("spent fuel") into ATP ("new fuel") out of one molecule of glucose - compared to around 32-36 ATP per glucose in mammalian cells! How low can you go, you might ask? Eight-fold less, to 2 ATP per glucose, if *S. cerevisiae* breaks it down to ethanol. If you (as a cell) were interested in using your food efficiently, fermentation is really not the way to go. 
 
