@@ -6,11 +6,9 @@
     - name: DoB
       value: 23rd July 1995
     - name: E-mail
-      value: p [dot] grigaitis [at] vu [dot] nl
-    - name: Phone
-      value: +31 (0) 20 59 98827
+      value: firstname [dot] lastname [at] kit [dot] edu
     - name: Languages
-      value: Lithuanian (native), English (C2), German (B2), Dutch (A2+)
+      value: Lithuanian (native), English (C2), German (C1), Dutch (B1)
 
 - title: Education
   type: time_table
@@ -34,6 +32,10 @@
 - title: Experience
   type: time_table
   contents:
+      - title: KIT Young Investigator Group Preparatory Program Fellow
+      institution: Karlsruhe Institute of Technology (Karlsruhe, DE)
+      year: 2025 -
+      
     - title: Postdoctoral Researcher
       institution: Vrije Universiteit Amsterdam (Amsterdam, NL)
       year: 2022 - 2025
