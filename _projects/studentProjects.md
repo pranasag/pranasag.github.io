@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Student projects
-description: Looking for future metabolic economists!
+description: Looking for future metabolic economists and metaoblic network designers!
 img: assets/img/uncleSam.jpg
 importance: 1
 category: Student projects
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-There is a number of theoretical projects open for students interested in any of the research topics (both at BSc and MSc level). Internships involve multiple modeling types (genome-scale metabolic modelling and kinetic modelling) and rely on programming with Python, MATLAB and/or R for data analysis and visualization.
+
 
 #### Open vacancies
-Currently none - multiple projects to be announced in 2025Q4. I am always looking for motivated undergraduate students, please contact me for more details!
+I can offer a number of projects (wet-lab, computational, mixed; both at BSc and MSc level), which can always be tailored to what *you* want to learn. Inquiries of motivated undergraduate students and/or student assistants (HiWi) are most certainly welcome!
 
+Computational internships concern analyzing multi-omics data + reconstructing and handling genome-scale metabolic models, while the wet-lab projects are dedicated for generating metagenomics and/or metatranscriptomics datasets. For **computational** internships, basic skills of at least one of the following programming languages are required: Python, bash, MATLAB and/or R.
