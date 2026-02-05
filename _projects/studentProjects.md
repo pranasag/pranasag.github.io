@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student projects
-description: Looking for future metabolic economists and metaoblic network designers!
+description: Looking for future metabolic economists and metabolic network designers!
 img: assets/img/uncleSam.jpg
 importance: 1
 category: Student projects
