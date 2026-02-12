@@ -6,7 +6,7 @@ description: "Here you will see a selection of my current research (sub)lines.
 Interested to know more? Please get in touch!"
 nav: true
 nav_order: 2
-display_categories: [Research themes, Student projects]
+display_categories: [Research themes, Student projects, Past research]
 horizontal: false
 ---
 
