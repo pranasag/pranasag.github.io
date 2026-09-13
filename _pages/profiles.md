@@ -20,11 +20,11 @@ profiles:
     content: team_julian.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Julian Breinich/p>
+      <p>Julian Breinich</p>
   - align: left
     image: unknown_person.jpg
     content: team_alumni.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Our alumni/p>
+      <p>Our alumni</p>
 ---
