@@ -8,10 +8,12 @@ nav_order: 5
 ---
 
 **Universität Heidelberg**
+
 MSc:
 - Advanced Computational Systems Biology 2025/26 (lectures & tutorials)
 
 **Karlsruher Institut für Technologie**
+
 BSc:
 - Bioinformatics 2025/26 (tutorials)
 - Genetics 2025/26 (lab practicals)
@@ -23,6 +25,7 @@ BSc:
 - Cell metabolism (2025; with Steffen Waldherr)
 
 ***Vrije Universiteit Amsterdam***
+
 BSc:
 - "Basics of Systems Biology" 2022/23, 2023/24 (tutorials)
 - "Basics of Bioinformatics and Systems Biology" 2024/25 (systems biology tutorials)
