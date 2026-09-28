@@ -15,7 +15,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Life at various scales is a collaborative effort: many lifeforms are heavily (inter-)dependent on other each other. The organization of life into higher-level units (from individual organisms into communities, eventually ecosystems) is heavily dependent on the metabolic interactions among individuals: as an example, function of gut microbiome is indispensable in some aspects to humans. This situation is somewhat reminiscent of a crafts market, where craftsmen produce goods to trade with each other. 
+Life at various scales is a collaborative effort: many lifeforms are heavily (inter-)dependent on each other. The organization of life into higher-level units (from individual organisms into communities, eventually ecosystems) in many cases hangs on the metabolic interactions among individuals: as an example, function of gut microbiome is indispensable in some aspects to humans. This situation is somewhat reminiscent of a crafts market, where craftsmen produce goods to trade with each other. 
 
 One of the open challenges in microbiology and microbial biotechnology is predicting the composition of microbial communities. However, microbial [metabolic] interactions are so complex that a set of individual microbes usually cannot be translated into a novel community. Can we use economic reasoning to master the principles of how microbial ecosystems come to life? 
 
