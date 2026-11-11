@@ -1,0 +1,3 @@
+**Responsible for:** further developing the model- and data integration methodologies upon foundations laid down by group alumni. 
+
+Cedrik is currently a student assistant (HiWi), whom Pranas first met during the European Conference of Theoretical and Mathematical Biology in July 2026. Cedrik pursued Masters in Molecular and Cellular Biology at the LMU München, and after expressed his interest to learn more about metabolic modeling and -omics data integration, which he currently has a chance to do.
