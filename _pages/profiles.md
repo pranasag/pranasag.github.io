@@ -29,6 +29,12 @@ profiles:
       <p>Anh Nguyen</p>
   - align: left
     image: unknown_person.jpg
+    content: team_cedrik.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Cedrik L. Neber</p>
+  - align: left
+    image: unknown_person.jpg
     content: team_alumni.md
     image_circular: false # crops the image to make it circular
     more_info: >
