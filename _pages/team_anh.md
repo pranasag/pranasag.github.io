@@ -1,0 +1,3 @@
+**Responsible for:** restoring/reestablishing the archaeal representation in microbiome-derived metabolic models. 
+
+Anh is currently a student assistant (HiWi), and a chemical biologist in heart (and student ID). She did a F3 practical placement with us in the summer of 2026, where she compared the functional annotation sensitivity of different methods/webservers on selected bacterial and archaeal genomes.
