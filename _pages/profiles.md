@@ -23,6 +23,12 @@ profiles:
       <p>Julian Breinich</p>
   - align: left
     image: unknown_person.jpg
+    content: team_anh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Anh Nguyen</p>
+  - align: left
+    image: unknown_person.jpg
     content: team_alumni.md
     image_circular: false # crops the image to make it circular
     more_info: >
